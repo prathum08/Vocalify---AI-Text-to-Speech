@@ -76,22 +76,3 @@ vocalify-ai/
 ├── tailwind.config.js
 ├── vite.config.js
 └── README.md
-<<<<<<< HEAD
-```
-
-## 🎮 Usage
-
-1. **Wait for AI Ready Status** - Ensure the green "AI Ready" indicator is visible
-2. **Enter Your Text** - Type or paste text (up to 3000 characters) in the textarea
-3. **Click Speak** - Press the "🔊 Speak" button to convert text to speech
-4. **Control Playback** - Use the "🔇 Stop" button to halt audio playback
-5. **Monitor Progress** - Watch the character counter and loading animations
-=======
-🎮 Usage
-
-Wait for AI Ready Status - Ensure the green "AI Ready" indicator is visible
-Enter Your Text - Type or paste text (up to 3000 characters) in the textarea
-Click Speak - Press the "🔊 Speak" button to convert text to speech
-Control Playback - Use the "🔇 Stop" button to halt audio playback
-Monitor Progress - Watch the character counter and loading animations
->>>>>>> b39692814fe9f30b65285344414ef9b4aa771ae9
